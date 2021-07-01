@@ -1,4 +1,4 @@
-## Fullstack Software Engineer @ TechMojo | Ex-OpenText
+## Sr. Software Engineer @ TechMojo | Ex-OpenText
 I am from New Delhi 🇮🇳
 - Working on multiple projects using React, Angular & NodeJS
 - JS enthusiast
